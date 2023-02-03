@@ -1,2 +1,2 @@
 # Restaurant page
-Live: https://wasilewski999.github.io/Restaurant-Page/
+Live: https://wasilewskip02.github.io/Restaurant-Page/
